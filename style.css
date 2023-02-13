@@ -1,0 +1,21 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+/* 附加文字 */
+.fujia{
+    color:darkgray;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+}
+
+span{
+    /* background-image: -moz-element(); */
+    width:700px;
+    height:200px;
+    font-size:20px;
+    background-color: rgba(220, 220, 211, 0.648);
+    text-decoration: solid;
+    text-align:center;
+}
